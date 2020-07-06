@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sociate1.1</string>
+    <string name="emailHintMain">Email</string>
+    <string name="passwordHintMain">Password</string>
+    <string name="loginBtnMain">Login</string>
+    <string name="need_helpBtnMain">Need Help?</string>
+    <string name="aboutBtnMain">About</string>
+    <string name="sociatelogomain">sociateLogoMain</string>
+    <string name="tvGoReg">Not Registered? Sign up here</string>
+    <string name="nav_menuMessage">Message</string>
+    <string name="nav_menuBadges">Badges</string>
+    <string name="nav_menuEvents">Events</string>
+    <string name="nav_menuHome">Home</string>
+    <string name="nav_menuProfile">Profile</string>
+    <string name="events_Watermark">events</string>
+</resources>
